@@ -1,0 +1,23 @@
+{
+  "name": "ahmad",
+  "hight": "180 cm",
+  "dateOfBirth": "1980-01-01",
+  "department": {
+    "departmentName": "development",
+    "manager": {
+      "name": "abbas"
+    },
+    "relatedDepartments": [
+      {
+        "departmentName": "marketing"
+      },
+      {
+        "departmentName": "hc",
+        "manager":
+        {
+          "name": "khalil"
+        }
+      }
+    ]
+  }
+}

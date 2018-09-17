@@ -1,0 +1,22 @@
+{
+  "title": "koko",
+  "name": "ibrahim",
+  "dateOfBirth": null,
+  "department": {
+    "numberOfEmployees": 3,
+    "manager": {
+      "title": "development manager"
+    },
+    "relatedDepartments": [
+      {
+        "departmentName": "marketing",
+        "manager": {
+          "name": "raja"
+        }
+      },
+      {
+        "departmentName": "hc"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "name": "ibrahim",
+  "title": "koko",
+  "hight": "180 cm",
+  "dateOfBirth": null,
+  "department": {
+    "departmentName": "development",
+    "manager": {
+      "name": null,
+      "title": "development manager",
+      "hight": null,
+      "dateOfBirth": null,
+      "department": null
+    },
+    "numberOfEmployees": 3,
+    "relatedDepartments": [
+      {
+        "departmentName": "marketing",
+        "manager": null,
+        "numberOfEmployees": 0,
+        "relatedDepartments": null
+      },
+      {
+        "departmentName": "hc",
+        "manager": {
+          "name": "khalil",
+          "title": null,
+          "hight": null,
+          "dateOfBirth": null,
+          "department": null
+        },
+        "numberOfEmployees": 0,
+        "relatedDepartments": null
+      },
+      {
+        "departmentName": "marketing",
+        "manager": {
+          "name": "raja",
+          "title": null,
+          "hight": null,
+          "dateOfBirth": null,
+          "department": null
+        },
+        "numberOfEmployees": 0,
+        "relatedDepartments": null
+      },
+      {
+        "departmentName": "hc",
+        "manager": null,
+        "numberOfEmployees": 0,
+        "relatedDepartments": null
+      }
+    ]
+  }
+}
